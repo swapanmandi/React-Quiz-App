@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 
 export default function App() {
+	
 	const questions = [
 		{
 			questionText: 'Where is the headquarters of Intel located?',
